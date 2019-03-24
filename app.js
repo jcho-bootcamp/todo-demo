@@ -1,7 +1,7 @@
-const lis = document.querySelectorAll("li");
-
 // Not recommended to change to arrow function (if necessary "this" needs to change as well)
 // https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/
+
+const lis = document.querySelectorAll("li");
 
 for (let i = 0; i < lis.length; i++) {
   // Add class green while mouse
