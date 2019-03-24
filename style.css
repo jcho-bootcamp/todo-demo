@@ -1,0 +1,12 @@
+.green {
+  color: green;
+}
+
+ul {
+  width: 70px;
+}
+
+.line-through {
+  text-decoration: line-through;
+  color: grey;
+}
